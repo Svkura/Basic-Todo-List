@@ -1,10 +1,19 @@
 ﻿# Basic-Todo-List
-Простой серверный To-Do список на Node.js с использованием Express и MongoDB.
+A simple backend Todo app built with Node.js, Express, and MongoDB.
 
-Функции
-- Создание задач
-- Отметка задач как выполненных
-- Фильтрация задач по названию и статусу выполнения
-- Редактирование задач
-- Удаление задач
-- Работа с базой данных MongoDB
+## Features
+
+- Create tasks
+- Mark tasks as completed
+- Filter tasks by title or status
+- Edit tasks
+- Delete tasks
+- Store tasks in MongoDB database
+
+## Tech Stack
+
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
+- [Postman](https://www.postman.com/) (for API testing)
