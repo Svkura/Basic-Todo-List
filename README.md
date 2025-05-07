@@ -1,7 +1,7 @@
-﻿# Basic-Todo-List
+﻿# 📃 Basic-Todo-List
 A simple backend Todo app built with Node.js, Express, and MongoDB.
 
-# Features
+# 🚀 Features
 - Create tasks
 - Mark tasks as completed
 - Filter tasks by title or status
@@ -9,7 +9,7 @@ A simple backend Todo app built with Node.js, Express, and MongoDB.
 - Delete tasks
 - Store tasks in MongoDB database
 
-# Tech Stack
+# 🔧 Tech Stack
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
